@@ -7,3 +7,6 @@
 $git init
 Initialized emty Git repository in /user/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world

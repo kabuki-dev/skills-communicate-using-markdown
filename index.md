@@ -1,2 +1,5 @@
 # My first markdown file
-## It should be a h2
+
+## It should have a image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
